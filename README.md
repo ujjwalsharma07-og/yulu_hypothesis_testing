@@ -86,5 +86,5 @@ This hypothesis testing study highlights critical usage patterns in Yulu’s bik
 
 ## 📄 Project Report  
 Detailed analysis and results can be found in the PDF report:  
-[📄 Yulu Hypothesis Testing Case Study (Colab)]()
+[📄 Yulu Hypothesis Testing Case Study (Colab)](https://github.com/ujjwalsharma07-og/yulu_hypothesis_testing/blob/main/Yulu_Hypothesis%20Testing%20_case_study.pdf)
  
